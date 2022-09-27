@@ -6,7 +6,6 @@
   </a>
 </div>
 
-----
 ## Who We Are:
 Tramango is a leading travel company in Nigeria committed to delivering premium travel experiences. Our services cover flight booking, hotel reservation, visa and documentation assistance, tour packages, travel insurance, airport transfers.
 
