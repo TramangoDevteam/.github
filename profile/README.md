@@ -18,7 +18,7 @@ From sunset to sandy toes, wavy seas, crowdy markets and historical destinations
 
 ## Contact:
 - Phone: [(+234)-9152807258](tel:+2349152807258)
-- Email: [info@tramango.com](info@tramango.com)
+- Email: [info@tramango.com](mailto:info@tramango.com)
 - Website: [tramango.com](https://tramango.com/)
 - Blog: [blog.tramango.com](https://blog.tramango.com/)
 
