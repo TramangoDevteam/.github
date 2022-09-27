@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Welcome to Tramango :wave:</h1>
-<p>THE BEST TRAVEL AGENCY</p>
+<h3>The Best Travel Agency</h3>
  <a href="https://tramango.com" target="_blank">
     <img alt="Tramango logo" height="150" src="https://avatars.githubusercontent.com/u/98104019?s=200&v=4"/>
   </a>
