@@ -7,7 +7,7 @@
 </div>
 
 ----
-
+## Who We Are:
 Tramango is a leading travel company in Nigeria committed to delivering premium travel experiences. Our services cover flight booking, hotel reservation, visa and documentation assistance, tour packages, travel insurance, airport transfers.
 
 We know what it means to love travel and experinece the beauty of amazing destinations.
@@ -16,13 +16,13 @@ We have a team to help tailor your travel experience to your taste and help you 
 
 From sunset to sandy toes, wavy seas, crowdy markets and historical destinations, we want you to exeperience all of these with ease.
 
-## Contact:
+## Contact Us:
 - Phone: [(+234)-9152807258](tel:+2349152807258)
 - Email: [info@tramango.com](mailto:info@tramango.com)
 - Website: [tramango.com](https://tramango.com/)
 - Blog: [blog.tramango.com](https://blog.tramango.com/)
 
-## Socials: 
+## Our Socials: 
 <p>
   <a href="https://www.linkedin.com/company/tramango/" alt="linkedin">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="linkedin" width="30" height="30" />
